@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231471483797",
+    "project_id": "fir-task-7f232",
+    "storage_bucket": "fir-task-7f232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231471483797:android:34724d1c43f3e08cae449c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_task_office"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtOMFxNge3oFcOuyECV3HhkMUAWk1inyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
